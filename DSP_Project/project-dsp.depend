@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526268038 source:c:\users\ultraslan\desktop\project-dsp\main.cpp
+	<iostream>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+
