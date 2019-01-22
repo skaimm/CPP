@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="LeagueTables" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/LeagueTables" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/LeagueTables" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Database.h" />
+		<Unit filename="include/Fifa.h" />
+		<Unit filename="include/Interface.h" />
+		<Unit filename="include/Manager.h" />
+		<Unit filename="include/Match.h" />
+		<Unit filename="include/Owner.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/Stadium.h" />
+		<Unit filename="include/Team.h" />
+		<Unit filename="include/stdafx.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Database.cpp" />
+		<Unit filename="src/Fifa.cpp" />
+		<Unit filename="src/Interface.cpp" />
+		<Unit filename="src/Manager.cpp" />
+		<Unit filename="src/Match.cpp" />
+		<Unit filename="src/Owner.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/Stadium.cpp" />
+		<Unit filename="src/Team.cpp" />
+		<Unit filename="src/stdafx.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

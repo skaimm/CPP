@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1493079744 source:c:\users\uasmt\desktop\leaguetables\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"stdafx.h"
+
+1493228220 source:c:\users\uasmt\desktop\leaguetables\src\manager.cpp
+	"Manager.h"
+
+1493228228 c:\users\uasmt\desktop\leaguetables\include\manager.h
+	"stdafx.h"
+
+1493499202 c:\users\uasmt\desktop\leaguetables\include\team.h
+	<string>
+	<list>
+	"stdafx.h"
+
+1493499140 source:c:\users\uasmt\desktop\leaguetables\src\match.cpp
+	"Match.h"
+
+1493499140 c:\users\uasmt\desktop\leaguetables\include\match.h
+	"stdafx.h"
+
+1493499239 c:\users\uasmt\desktop\leaguetables\include\stadium.h
+	"stdafx.h"
+
+1492509079 source:c:\users\uasmt\desktop\leaguetables\src\owner.cpp
+	"Owner.h"
+
+1492509089 c:\users\uasmt\desktop\leaguetables\include\owner.h
+	"stdafx.h"
+
+1491559693 source:c:\users\uasmt\desktop\leaguetables\src\player.cpp
+	"Player.h"
+
+1493252134 c:\users\uasmt\desktop\leaguetables\include\player.h
+	"stdafx.h"
+
+1492634561 c:\users\uasmt\desktop\leaguetables\include\sponser.h
+	"stdafx.h"
+
+1493119679 source:c:\users\uasmt\desktop\leaguetables\src\pointstable.cpp
+	"PointsTable.h"
+
+1493076604 c:\users\uasmt\desktop\leaguetables\include\pointstable.h
+	"stdafx.h"
+
+1491559715 source:c:\users\uasmt\desktop\leaguetables\src\sponser.cpp
+	"Sponser.h"
+
+1492627155 source:c:\users\uasmt\desktop\leaguetables\src\stadium.cpp
+	"Stadium.h"
+
+1493251885 source:c:\users\uasmt\desktop\leaguetables\src\team.cpp
+	"Team.h"
+
+1493499901 c:\users\uasmt\desktop\leaguetables\include\database.h
+	"stdafx.h"
+
+1493500005 source:c:\users\uasmt\desktop\leaguetables\src\database.cpp
+	"Database.h"
+
+1493931190 source:c:\users\uasmt\desktop\leaguetables\src\interface.cpp
+	"Interface.h"
+
+1493500496 c:\users\uasmt\desktop\leaguetables\include\interface.h
+	"stdafx.h"
+
+1493499901 c:\users\uasmt\desktop\leaguetables\include\stdafx.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<algorithm>
+	"Team.h"
+	"Database.h"
+	"Interface.h"
+	"Manager.h"
+	"Owner.h"
+	"Player.h"
+	"Stadium.h"
+	"Fifa.h"
+	"Match.h"
+
+1492307145 source:c:\users\uasmt\desktop\leaguetables\src\stdafx.cpp
+	"stdafx.h"
+
+1493500727 c:\users\uasmt\desktop\leaguetables\include\fifa.h
+	"stdafx.h"
+
+1493506457 source:c:\users\uasmt\desktop\leaguetables\src\fifa.cpp
+	"Fifa.h"
+

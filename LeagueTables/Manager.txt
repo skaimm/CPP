@@ -1,0 +1,19 @@
+Id     Name    Surname    Age   Country    Tactic    Salary   Team
+100    Igor    Tudor    39    Croatia    2200    100
+101    Dick    Advocaat    69    Holland    1800    101
+102    Senol    Gunes    64    Turkey    1500    102
+103    Abdullah    Avci    53    Turkey    800    103
+104    Ersun    Yanal    55    Turkey    1500    104
+105    Riza    Calimbay    54    Turkey    900    105
+106    Umit    Ozat    41    Turkey    750    106
+107    Aykut    Kocaman    52    Turkey    800    107
+108    Hamza    Hamzaoglu    47    Turkey    750    108
+109    Kemal    Ozdes    47    Turkey    600    109
+110    Zoran    Barisic    46    Austria    850    110
+111    Mutlu    Topcu    47    Turkey    600    111
+112    Safet    Susic    62    Bosnia    450    112
+113    Sergen    Yalcin    53    Turkey    800    113
+114    Bulent    Uygun    45    Turkey    750    114
+115    Hikmet    Karaman    57    Turkey    900    115
+116    Levent    Sahin    43    Turkey    600    116
+117    Okan    Buruk    43    Turkey    750    117
